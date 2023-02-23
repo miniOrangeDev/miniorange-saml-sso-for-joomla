@@ -1,3 +1,10 @@
+## DOWANLOAD AND INSTALLATION STEPS OF JOOMLA SAML SP
+- Download the zip file for the miniOrange Joomla SAML SSO plugin for Joomla.
+- Unzip the folder and zip all the subfolders except language folder. Now zip the main folder.
+- Login into your Joomla site’s Administrator console.
+- From menu, click on System, then under Install section click on **Extensions**.
+- And upload the zip file under **Upload Package File**.
+
 ## Joomla SAML Single Sign-On (SSO) – SAML SSO Login Authentication | Login to Joomla
 
 Joomla Single Sign-On (SSO) is an authentication process in which a user can log in to multiple applications and/or websites by using only a single set of login credentials (such as username and password). This prevents the need for the user to log in separately to the different applications. Joomla Single-Sign-On addresses the challenge of maintaining the credentials for each application separately, streamlining the process of signing on without the need to re-enter the password. 
