@@ -5,6 +5,7 @@
 - From menu, click on System, then under Install section click on **Extensions**.
 - And upload the zip file under **Upload Package File**.
 
+## Joomla SAML SSO IDP - Login Using Joomla
 **Login using Joomla Users ( Joomla as SAML IDP ) provides SAML functionality for Joomla SSO.
  - SAML Identity Provider** plugin acts as a SAML 2.0 Identity Provider (IDP) which can be configured to establish the trust between the Joomla site and various SAML 2.0 supported Service Providers to securely authenticate the user using the Joomla site credentials.
 
